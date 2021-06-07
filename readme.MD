@@ -15,4 +15,7 @@ If you have a way to deploy the application in a cloud environment it would be a
 if running locally, swagger/OpenAPI available here: http://localhost:8080/swagger-ui.html
 
 Author : Matthew Nixon
+Built with Gradle
+
 Apologies - gitignore is being silly for some reason
+
