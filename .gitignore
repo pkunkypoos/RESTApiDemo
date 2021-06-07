@@ -7,7 +7,9 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
-.idea
+# we really don't care about all of idea
+.idea/*
+
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
@@ -54,7 +56,6 @@ cmake-build-*/
 
 # IntelliJ
 out/
-build
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -135,6 +136,7 @@ hs_err_pid*
 .gradle
 **/build/
 !src/**/build/
+build/*
 
 # Ignore Gradle GUI config
 gradle-app.setting
