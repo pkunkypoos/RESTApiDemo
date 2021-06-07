@@ -1,0 +1,6 @@
+com/restapi/service/NamesAndPostcodeServiceTests.java
+ com.restapi.service.NamesAndPostcodeServiceTests
+com/restapi/controller/NamesAndCharacterCountTests.java
+ com.restapi.controller.NamesAndCharacterCountTests
+com/restapi/controller/NamesAndPostcodesEndpointTests.java
+ com.restapi.controller.NamesAndPostcodesEndpointTests

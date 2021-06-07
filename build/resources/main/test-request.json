@@ -1,0 +1,24 @@
+{
+  "NamesAndPostCodes": [
+    {
+      "name": "Perth",
+      "postcode": "6000"
+    },
+    {
+      "name" : "South Perth",
+      "postcode" : "6151"
+    },
+    {
+      "name" : "Carlisle",
+      "postcode" : "6101"
+    },
+    {
+      "name" : "Country Town",
+      "postcode" : "6234"
+    },
+    {
+      "name" : "Other Country Town",
+      "postcode" : "6234"
+    }
+  ]
+}

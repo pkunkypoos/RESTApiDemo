@@ -1,0 +1,20 @@
+com/restapi/dto/NamesAndPostcodeResult.java
+ com.restapi.dto.NamesAndPostcodeResult
+com/restapi/dto/SuburbRangeResult.java
+ com.restapi.dto.SuburbRangeResult
+com/restapi/dto/NamesAndPostcodesRequest.java
+ com.restapi.dto.NamesAndPostcodesRequest
+com/restapi/model/Suburb.java
+ com.restapi.model.Suburb
+com/restapi/Application.java
+ com.restapi.Application
+com/restapi/service/NameAndPostcodeServiceImpl.java
+ com.restapi.service.NameAndPostcodeServiceImpl
+com/restapi/service/NamesAndPostcodeService.java
+ com.restapi.service.NamesAndPostcodeService
+com/restapi/dto/NamePostcodePair.java
+ com.restapi.dto.NamePostcodePair
+com/restapi/controller/DemoController.java
+ com.restapi.controller.DemoController
+com/restapi/jpa/NamesAndPostcodeRepository.java
+ com.restapi.jpa.NamesAndPostcodeRepository
