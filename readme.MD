@@ -20,7 +20,8 @@ Built with Gradle - simply run the bootrun task to start!
 
 Apologies - gitignore is being silly for some reason
 
-###Example Requests:
+### Example Requests:
+
 http://localhost:8080/names-and-postcodes
 Body:
 ```
